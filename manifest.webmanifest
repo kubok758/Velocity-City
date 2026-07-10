@@ -1,0 +1,12 @@
+{
+  "name":"Velocity City — симулятор вождения",
+  "short_name":"Velocity City",
+  "start_url":"./",
+  "display":"fullscreen",
+  "orientation":"landscape",
+  "background_color":"#070a10",
+  "theme_color":"#090d14",
+  "icons":[
+    {"src":"assets/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
